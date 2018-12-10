@@ -1,0 +1,246 @@
+.hit-the-floor {
+color: #fff; /*5780ad*/
+font-size: 26px;
+font-weight: bold;
+font-family: Verdana;
+letter-spacing: 2px;
+text-transform: uppercase;
+text-shadow: 2px 2px 2px #333;
+background-color: rgba(91,155,224, 0.60);
+
+}
+
+.hit-the-floor {
+  text-align: center;
+}
+
+
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size:small;
+    border-collapse: collapse;
+    width: 75%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/*#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 4px;
+	
+}
+
+
+#customers tr:nth-child(even){background-color:#d2d2d2;opacity:0.9;}
+#customers tr:nth-child(odd){background-color:#c2c2c2;opacity:0.9;}
+
+#customers tr:hover {background-color: #bbb;}
+
+#customers th {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    text-align: left;
+    background-color: #4CAF50;
+    opacity:0.9;
+    color: white;
+}*/
+
+input:disabled {
+    background: #fff8d0;
+    padding: 0px;
+    margin: 0 0 0 0;
+    background-image: none;
+}
+
+#angarancio {
+    border-radius: 15px;
+    border: 2px solid #E3A20B;
+    padding: 20px; 
+    width: 650px;
+    box-shadow: #000000 4px 4px 4px;
+}
+
+table#tabellaricerca {
+    font-family: Verdana;
+    font-size: 11pt;
+    color:white;
+    background: rgba(87,128,173, 0.9);
+    border-radius:10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    margin-left:auto;
+    margin-right:auto;
+    border-spacing: 7px;
+    border-collapse: separate;
+    border: 1px solid white;
+}
+
+table#tabellains {
+    font-family:Verdana;
+    color:white;
+    background: rgba(0, 0, 102,0.8);
+    border-radius:10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    margin-left:auto;margin-right:auto;
+    border-spacing: 10px;
+    border-collapse: separate;
+    border: 1px solid white;
+}
+
+table#tabellamod {
+    font-family:Verdana;
+    color:white;
+    background: rgba( 1,93,110, 0.8);
+    border-radius:10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    margin-left:auto;margin-right:auto;
+    border-spacing: 10px;
+    border-collapse: separate;
+    border: 1px solid white;
+}
+
+div#vocemenu {
+width: 90%; 
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+border:1px solid #ffffff; 
+background-color: rgba(87,128,173,0.8);
+}
+
+div#infobox {
+width: 40%; 
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+border:1px solid #ffffff; 
+background-color: rgba(69,81,20,0.8);
+padding: 5px;
+}
+
+p#biancomaiusc {
+color: #fff;
+font-variant: small-caps;
+font-size: 12pt;
+font-weight: bold;
+align-self: center;
+}
+
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(../images/loading.gif) center no-repeat #fff;
+}
+
+input#inputform { 
+    background: #1C1C1C; 
+    border: 1px solid white; 
+    color: #fff; 
+    height: 30px; 
+    line-height: 30px;
+    width: 300px;
+    padding: 0 10px;
+} 
+
+.hot-container p { margin-top: 10px; }
+a { text-decoration: none; margin: 0 10px; }
+
+.hot-container {
+	min-height: 100px;
+	margin-top: 100px;
+	width: 100%;
+	text-align: center;
+}
+
+a.btn {
+	display: inline-block;
+	color: #666;
+	background-color: #eee;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 12px;
+	padding: 10px 30px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid rgba(0,0,0,0.3);
+	border-bottom-width: 3px;
+}
+
+	a.btn:hover {
+		background-color: #e3e3e3;
+		border-color: rgba(0,0,0,0.5);
+	}
+	
+	a.btn:active {
+		background-color: #CCC;
+		border-color: rgba(0,0,0,0.9);
+	}
+
+/* blue button */
+
+a.btn.btn-blue {
+	background-color: #699DB6;
+	border-color: rgba(0,0,0,0.3);
+	text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+	color: #FFF;
+}
+
+	a.btn.btn-blue:hover {
+		background-color: #4F87A2;
+		border-color: rgba(0,0,0,0.5);
+	}
+	
+	a.btn.btn-blue:active {
+		background-color: #3C677B;
+		border-color: rgba(0,0,0,0.9);
+	}
+
+/* red button */
+
+a.btn.btn-red {
+	background-color: #E48681;
+	border-color: rgba(0,0,0,0.3);
+	text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+	color: #FFF;
+}
+
+	a.btn.btn-red:hover {
+		background-color: #DA4F49;
+		border-color: rgba(0,0,0,0.5);
+	}
+	
+	a.btn.btn-red:active {
+		background-color: #B32C24;
+		border-color: rgba(0,0,0,0.9);
+	}
+        
+            body {
+	background: #fafafa url(https://jackrugile.com/images/misc/noise-diagonal.png);
+	color: #444;
+	font: 100%/30px 'Helvetica Neue', helvetica, arial, sans-serif;
+	text-shadow: 0 1px 0 #fff;
+}
+
+strong {
+	font-weight: bold; 
+}
+
+em {
+	font-style: italic; 
+}
+

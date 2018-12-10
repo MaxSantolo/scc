@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="945af6f1-6bb3-4e81-ba88-4e6c737b8b42" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Y" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://Y:/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="239" column="1" selection-start-line="239" selection-start-column="1" selection-end-line="239" selection-end-column="1" />
+              <folding>
+                <element signature="e#4737#6205#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dettaglio_bolla_fattura.php" pinned="false" current-in-tab="false">
+        <entry file="file://Y:/dettaglio_bolla_fattura.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="284" column="88" selection-start-line="284" selection-start-column="82" selection-end-line="284" selection-end-column="88" />
+              <folding>
+                <marker date="1517585284128" expanded="true" signature="108:164" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="208:256" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="434:511" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="583:679" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="10635:10641" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="11864:11870" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload_f.php" pinned="false" current-in-tab="false">
+        <entry file="file://Y:/tech/upload_f.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <marker date="1518522610883" expanded="true" signature="984:1052" placeholder="..." />
+                <marker date="1518522610883" expanded="true" signature="984:1064" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.php" pinned="false" current-in-tab="false">
+        <entry file="file://Y:/tech/upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="44" column="106" selection-start-line="44" selection-start-column="106" selection-end-line="44" selection-end-column="106" />
+              <folding>
+                <marker date="1518522676419" expanded="true" signature="980:1046" placeholder="..." />
+                <marker date="1518522676419" expanded="true" signature="980:1058" placeholder="..." />
+                <marker date="1518522676419" expanded="true" signature="980:1059" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbarca.php" pinned="false" current-in-tab="false">
+        <entry file="file://Y:/navbar/navbarca.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bolle_fatture_precedenti.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bolle_fatture_precedenti.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dettaglio_bolla_fattura.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dettaglio_bolla_fattura.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1517585284128" expanded="true" signature="108:164" placeholder="SELECT * FRO..bolle_fatture_current..." />
+                <marker date="1517585284128" expanded="true" signature="208:256" placeholder="SELECT * FRO..bolle_fatture..." />
+                <marker date="1517585284128" expanded="true" signature="434:511" placeholder="SELECT sum(v..cespiti..." />
+                <marker date="1517585284128" expanded="true" signature="583:679" placeholder="SELECT sum(v..cespiti..." />
+                <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="SELECT * FRO..cespiti..." />
+                <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="SELECT sum(v..cespiti..." />
+                <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="SELECT sum(v..cespiti..." />
+                <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+                <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="SELECT * FRO..cespiti..." />
+                <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="SELECT data_..bolle_fatture..." />
+                <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="INSERT INTO ..." />
+                <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="INSERT INTO ..." />
+                <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="SELECT * FRO..cespiti..." />
+                <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="SELECT * FRO..cespiti..." />
+                <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="UPDATE cespi..." />
+                <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="UPDATE bolle..." />
+                <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="SELECT * FRO..bolle_fatture..." />
+                <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="SELECT * FRO..bolle_fatture..." />
+                <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="INSERT INTO ..." />
+                <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="SELECT * FRO..bolle_fatture..." />
+                <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="SELECT * FRO..bolle_fatture..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ricerca_generale.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ricerca_generale.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="150" column="18" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
+              <folding>
+                <marker date="1505225991774" expanded="true" signature="5145:5188" placeholder="SELECT * FRO..cespiti..." />
+                <marker date="1505225991774" expanded="true" signature="5811:6433" placeholder="SELECT *, ce..cespiti..." />
+                <marker date="1505225991774" expanded="true" signature="6509:6734" placeholder="SELECT *, ce..cespiti..." />
+                <marker date="1505225991774" expanded="true" signature="6840:6850" placeholder="..." />
+                <marker date="1505225991774" expanded="true" signature="6938:6956" placeholder="..." />
+                <marker date="1505225991774" expanded="true" signature="7092:7109" placeholder="..." />
+                <marker date="1505225991774" expanded="true" signature="7693:7711" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5463183">
+              <caret line="185" column="0" selection-start-line="185" selection-start-column="0" selection-end-line="192" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funzioni.php" pinned="false" current-in-tab="false">
+        <entry file="file://Y:/tech/funzioni.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+              <folding>
+                <marker date="1516032090424" expanded="true" signature="133:229" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bolle_FAtture</find>
+      <find>bolla_fattura</find>
+      <find>bolle_fatture</find>
+      <find>elimina</find>
+      <find>funzioni_associate</find>
+      <find>upload</find>
+      <find>$nume</find>
+      <find>m</find>
+      <find>massimi</find>
+      <find>massimilian</find>
+      <find>massimiliano</find>
+      <find>massimiliano.</find>
+      <find>massimiliano.san</find>
+      <find>massimiliano.sant</find>
+      <find>massimiliano.santo</find>
+      <find>massimiliano.santol</find>
+      <find>massimiliano.santolo</find>
+      <find>massimiliano.santolo@</find>
+      <find>massimiliano.santolo@p</find>
+      <find>massimiliano.santolo@pi</find>
+      <find>massimiliano.santolo@pickc</find>
+      <find>massimiliano.santolo@pickcen</find>
+      <find>massimiliano.santolo@pickcent</find>
+      <find>massimiliano.santolo@pickcenter</find>
+      <find>massimiliano.santolo@pickcenter.</find>
+      <find>massimiliano.santolo@pickcenter.co</find>
+      <find>massimiliano.santolo@pickcenter.com</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>max@swhub.io</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>Y:\</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="Y:/tech/funzioni_associate.php" />
+        <option value="Y:/libro_cespiti.php" />
+        <option value="Y:/ricerca_generale.php" />
+        <option value="Y:/tech/menu.php" />
+        <option value="Y:/dettaglio_bolla_fattura_precedente.php" />
+        <option value="Y:/bolle_fatture.php" />
+        <option value="Y:/tech/funzioni.php" />
+        <option value="Y:/bolle_fatture_precedenti.php" />
+        <option value="Y:/index.php" />
+        <option value="Y:/dettaglio_bolla_fattura.php" />
+        <option value="Y:/tech/upload_f.php" />
+        <option value="Y:/tech/upload.php" />
+        <option value="Y:/navbar/navbarca.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Y" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Y:\" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="Y:" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="Y:/" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.Y:" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="945af6f1-6bb3-4e81-ba88-4e6c737b8b42" name="Default" comment="" />
+      <created>1501841207841</created>
+      <option name="number" value="Default" />
+      <updated>1501841207841</updated>
+      <workItem from="1501841210529" duration="19000" />
+      <workItem from="1501852905230" duration="15000" />
+      <workItem from="1501852947730" duration="497000" />
+      <workItem from="1502089471745" duration="13411000" />
+      <workItem from="1504084764311" duration="625000" />
+      <workItem from="1504192075242" duration="138000" />
+      <workItem from="1504192285104" duration="1268000" />
+      <workItem from="1504193644925" duration="698000" />
+      <workItem from="1504248190948" duration="1367000" />
+      <workItem from="1504253959385" duration="2457000" />
+      <workItem from="1505118816166" duration="7368000" />
+      <workItem from="1505133895434" duration="6583000" />
+      <workItem from="1505198642276" duration="8866000" />
+      <workItem from="1505314602254" duration="15000" />
+      <workItem from="1505484417022" duration="36000" />
+      <workItem from="1505484500858" duration="550000" />
+      <workItem from="1509355731733" duration="596000" />
+      <workItem from="1510905788157" duration="390000" />
+      <workItem from="1515759434073" duration="638000" />
+      <workItem from="1515767838527" duration="162000" />
+      <workItem from="1516002320281" duration="5524000" />
+      <workItem from="1516016962598" duration="12893000" />
+      <workItem from="1516088212473" duration="2793000" />
+      <workItem from="1516099371864" duration="959000" />
+      <workItem from="1516116907663" duration="675000" />
+      <workItem from="1516348459433" duration="2074000" />
+      <workItem from="1516614057534" duration="68000" />
+      <workItem from="1516620600972" duration="200000" />
+      <workItem from="1517572899302" duration="3898000" />
+      <workItem from="1518521584699" duration="1686000" />
+      <workItem from="1518537336104" duration="23000" />
+      <workItem from="1527676955398" duration="86000" />
+      <workItem from="1527689727011" duration="18000" />
+      <workItem from="1533628608076" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77210000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bolle_fatture_precedenti.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="SELECT * FRO..bolle_fatture_current..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="SELECT data_..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="INSERT INTO ..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="INSERT INTO ..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="UPDATE cespi..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="UPDATE bolle..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="INSERT INTO ..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="SELECT * FRO..bolle_fatture..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ricerca_generale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505225991774" expanded="true" signature="5145:5188" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1505225991774" expanded="true" signature="5811:6433" placeholder="SELECT *, ce..cespiti..." />
+            <marker date="1505225991774" expanded="true" signature="6509:6734" placeholder="SELECT *, ce..cespiti..." />
+            <marker date="1505225991774" expanded="true" signature="6840:6850" placeholder="..." />
+            <marker date="1505225991774" expanded="true" signature="6938:6956" placeholder="..." />
+            <marker date="1505225991774" expanded="true" signature="7092:7109" placeholder="..." />
+            <marker date="1505225991774" expanded="true" signature="7693:7711" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding>
+            <marker date="1516032090424" expanded="true" signature="133:229" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="239" column="1" selection-start-line="239" selection-start-column="1" selection-end-line="239" selection-end-column="1" />
+          <folding>
+            <element signature="e#4737#6205#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/bolle_fatture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="184" column="165" selection-start-line="184" selection-start-column="165" selection-end-line="184" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="115" selection-start-line="51" selection-start-column="115" selection-end-line="51" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="284" column="88" selection-start-line="284" selection-start-column="82" selection-end-line="284" selection-end-column="88" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10635:10641" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11864:11870" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/upload_f.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <marker date="1518522610883" expanded="true" signature="984:1052" placeholder="..." />
+            <marker date="1518522610883" expanded="true" signature="984:1064" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="106" selection-start-line="44" selection-start-column="106" selection-end-line="44" selection-end-column="106" />
+          <folding>
+            <marker date="1518522676419" expanded="true" signature="980:1046" placeholder="..." />
+            <marker date="1518522676419" expanded="true" signature="980:1058" placeholder="..." />
+            <marker date="1518522676419" expanded="true" signature="980:1059" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/navbar/navbarca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bolle_fatture_precedenti.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="SELECT * FRO..bolle_fatture_current..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="SELECT data_..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="INSERT INTO ..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="INSERT INTO ..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="UPDATE cespi..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="UPDATE bolle..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="INSERT INTO ..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="SELECT * FRO..bolle_fatture..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding>
+            <marker date="1516032090424" expanded="true" signature="133:229" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="23" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="397" column="10" selection-start-line="397" selection-start-column="10" selection-end-line="397" selection-end-column="10" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10635:10641" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11864:11870" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="58" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/bolle_fatture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="194" column="95" selection-start-line="194" selection-start-column="95" selection-end-line="194" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni_associate.php" />
+    <entry file="file://Y:/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="397" column="10" selection-start-line="397" selection-start-column="10" selection-end-line="397" selection-end-column="10" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10635:10641" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11864:11870" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="58" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni_associate.php" />
+    <entry file="file://Y:/bolle_fatture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="194" column="95" selection-start-line="194" selection-start-column="95" selection-end-line="194" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="58" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni_associate.php" />
+    <entry file="file://Y:/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="380" column="54" selection-start-line="380" selection-start-column="54" selection-end-line="380" selection-end-column="54" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10635:10641" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11864:11870" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="384" column="20" selection-start-line="384" selection-start-column="20" selection-end-line="384" selection-end-column="65" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10635:10641" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11864:11870" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="58" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni_associate.php" />
+    <entry file="file://Y:/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="384" column="20" selection-start-line="384" selection-start-column="20" selection-end-line="384" selection-end-column="65" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10635:10641" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11864:11870" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="58" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni_associate.php" />
+    <entry file="file://Y:/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="384" column="20" selection-start-line="384" selection-start-column="20" selection-end-line="384" selection-end-column="65" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10635:10641" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11864:11870" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="58" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni_associate.php" />
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/ricerca_generale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="209" column="0" selection-start-line="209" selection-start-column="0" selection-end-line="209" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/bolle_fatture_precedenti.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="178" column="155" selection-start-line="178" selection-start-column="155" selection-end-line="178" selection-end-column="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/bolle_fatture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="184" column="165" selection-start-line="184" selection-start-column="165" selection-end-line="184" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="115" selection-start-line="51" selection-start-column="115" selection-end-line="51" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/funzioni_associate.php" />
+    <entry file="file://Y:/tech/funzioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding>
+            <marker date="1516032090424" expanded="true" signature="133:229" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="239" column="1" selection-start-line="239" selection-start-column="1" selection-end-line="239" selection-end-column="1" />
+          <folding>
+            <element signature="e#4737#6205#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="284" column="88" selection-start-line="284" selection-start-column="82" selection-end-line="284" selection-end-column="88" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10635:10641" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11864:11870" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/upload_f.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <marker date="1518522610883" expanded="true" signature="984:1052" placeholder="..." />
+            <marker date="1518522610883" expanded="true" signature="984:1064" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/tech/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="106" selection-start-line="44" selection-start-column="106" selection-end-line="44" selection-end-column="106" />
+          <folding>
+            <marker date="1518522676419" expanded="true" signature="980:1046" placeholder="..." />
+            <marker date="1518522676419" expanded="true" signature="980:1058" placeholder="..." />
+            <marker date="1518522676419" expanded="true" signature="980:1059" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Y:/navbar/navbarca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bolle_fatture_precedenti.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dettaglio_bolla_fattura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517585284128" expanded="true" signature="108:164" placeholder="SELECT * FRO..bolle_fatture_current..." />
+            <marker date="1517585284128" expanded="true" signature="208:256" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="434:511" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="583:679" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="8962:9048" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="9186:9263" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="9343:9439" placeholder="SELECT sum(v..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="9925:9942" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="10770:10788" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11037:11055" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="11805:11822" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12058:12076" placeholder="..." />
+            <marker date="1517585284128" expanded="true" signature="12548:12619" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="12755:12826" placeholder="SELECT data_..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="13051:13291" placeholder="INSERT INTO ..." />
+            <marker date="1517585284128" expanded="true" signature="13413:13634" placeholder="INSERT INTO ..." />
+            <marker date="1517585284128" expanded="true" signature="14703:14774" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="14858:14929" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1517585284128" expanded="true" signature="16336:16513" placeholder="UPDATE cespi..." />
+            <marker date="1517585284128" expanded="true" signature="17617:17914" placeholder="UPDATE bolle..." />
+            <marker date="1517585284128" expanded="true" signature="18180:18290" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="18510:18616" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="18731:19007" placeholder="INSERT INTO ..." />
+            <marker date="1517585284128" expanded="true" signature="19132:19243" placeholder="SELECT * FRO..bolle_fatture..." />
+            <marker date="1517585284128" expanded="true" signature="19327:19433" placeholder="SELECT * FRO..bolle_fatture..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ricerca_generale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="150" column="18" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
+          <folding>
+            <marker date="1505225991774" expanded="true" signature="5145:5188" placeholder="SELECT * FRO..cespiti..." />
+            <marker date="1505225991774" expanded="true" signature="5811:6433" placeholder="SELECT *, ce..cespiti..." />
+            <marker date="1505225991774" expanded="true" signature="6509:6734" placeholder="SELECT *, ce..cespiti..." />
+            <marker date="1505225991774" expanded="true" signature="6840:6850" placeholder="..." />
+            <marker date="1505225991774" expanded="true" signature="6938:6956" placeholder="..." />
+            <marker date="1505225991774" expanded="true" signature="7092:7109" placeholder="..." />
+            <marker date="1505225991774" expanded="true" signature="7693:7711" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5463183">
+          <caret line="185" column="0" selection-start-line="185" selection-start-column="0" selection-end-line="192" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
