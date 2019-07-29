@@ -40,7 +40,7 @@ if (file_exists($path_filename_ext)) {
  move_uploaded_file($temp_name,$path_filename_ext);
  echo "File caricato.";
  
- $path = str_replace('..','http://192.168.1.40:90',$path_filename_ext);
+ $path = str_replace('..','http://192.168.1.51:90',$path_filename_ext);
  
  $conn_prod_cespiti->query("UPDATE bolle_fatture SET scansione_bolla ='".$path."' WHERE id = '".$numero."'");
  

@@ -12,7 +12,7 @@ if ($_GET['fx'] == 'archivia') {
     
     $conn_prod_cespiti->query("DELETE FROM cespiti WHERE id_cespite = '".$id_c."'");
     
-    header("Location: http://192.168.1.40:90/dettaglio_bolla_fattura.php?id=".$id_f);
+    header("Location: http://192.168.1.51:90/dettaglio_bolla_fattura.php?id=".$id_f);
     
 }
 
@@ -70,7 +70,7 @@ if ($_GET['fx'] == 'eliminabolfat_old') {
 
     if ($conta_cespiti == 0) { $conn_prod_cespiti->query("DELETE FROM bolle_fatture WHERE id = '".$id_f."'")   ;  }
 
-    header("Location: http://192.168.1.40:90/bolle_fatture_precedenti.php");
+    header("Location: http://192.168.1.51:90/bolle_fatture_precedenti.php");
 }
 
 
@@ -84,7 +84,7 @@ if ($_GET['fx'] == 'eliminabolfat') {
     
     if ($conta_cespiti == 0) { $conn_prod_cespiti->query("DELETE FROM bolle_fatture WHERE id = '".$id_f."'")   ;  }
     
-    header("Location: http://192.168.1.40:90/bolle_fatture.php");
+    header("Location: http://192.168.1.51:90/bolle_fatture.php");
 }
 
 if ($_GET['fx'] == 'salva') {
@@ -94,7 +94,7 @@ if ($_GET['fx'] == 'salva') {
 
     $conn_prod_cespiti->query("UPDATE cespiti SET codice = '".$cod_c_assegnare."' WHERE id_cespite ='".$id_c_salvare."'");
 
-    header("Location: http://192.168.1.40:90/libro_cespiti.php");
+    header("Location: http://192.168.1.51:90/libro_cespiti.php");
 
 }
 
@@ -106,7 +106,7 @@ if ($_GET['fx'] == 'aggiorna_date') {
 
     $conn_prod_cespiti->query("UPDATE cespiti SET data_cespite = '".$data."' WHERE id_fattura = '".$id_f."'");
 
-    header("Location: http://192.168.1.40:90/dettaglio_bolla_fattura.php?id=".$id_f);
+    header("Location: http://192.168.1.51:90/dettaglio_bolla_fattura.php?id=".$id_f);
 
 }
 

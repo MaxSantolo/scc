@@ -1,0 +1,25 @@
+ Il volume nell'unit… X Š www
+ Numero di serie del volume: F818-73BB
+
+ Directory di X:\
+
+24/05/2019  12:32    <DIR>          .
+11/04/2019  16:02    <DIR>          ..
+03/04/2019  11:42    <DIR>          archivio_dati
+03/04/2019  11:42    <DIR>          aspnet_client
+15/01/2018  17:55             8.759 bolle_fatture.php
+15/01/2018  17:00             8.453 bolle_fatture_precedenti.php
+03/04/2019  11:42    <DIR>          css
+02/02/2018  17:28            20.289 dettaglio_bolla_fattura.php
+24/05/2019  12:32                94 dirlist.txt
+03/04/2019  11:42    <DIR>          immagini
+02/02/2018  16:34             6.497 index.php
+03/04/2019  11:42    <DIR>          navbar
+03/04/2019  11:42    <DIR>          netbeans_stuff
+03/04/2019  11:42    <DIR>          OLD_STUFF
+23/05/2019  13:46    <DIR>          QRCODES
+12/09/2017  16:19             8.537 ricerca_generale.php
+03/04/2019  17:13    <DIR>          tech
+02/02/2018  16:49            19.645 tests.php
+               7 File         72.274 byte
+              11 Directory  46.305.943.552 byte disponibili
